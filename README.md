@@ -28,22 +28,21 @@ Prototype: Built low- and high-fidelity screens in Figma
 
 Test & Improve: Adjusted design based on feedback (e.g., larger SOS button, clearer AR arrows)
 
-Key Screens
-
+Key Screens:
 Login Page
-
 Dashboard with SOS button
-
 AR Navigation View
-
 Emergency Procedures Page
 
 Tools Used
-
 Figma (prototype design)
-
 Miro (brainstorming & mapping)
 
 View the Prototype
-
 [https://www.figma.com/design/5nPNIXQsu9EfY5lh8OvQoc/Untitled?node-id=0-1&p=f&t=kG9vOAhxB4MAwrTP-0]
+
+Credits
+S.DARUN
+CRS: Artificial Intelligence
+Design Thinking for Innovation
+Meluha International School – IBCP Programme
